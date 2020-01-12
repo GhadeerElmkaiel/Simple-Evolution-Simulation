@@ -19,4 +19,4 @@ Another improvement is to try to make the movement as smooth as possible, by tak
 The purpose of this simulation is to deonstrate the idea of natural selection and evolution.
 
 
-To run the simulation just run the Run_Simulation.py file.
+To run the simulation just run the Run_Simulation.py file and the simulation should start.
